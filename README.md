@@ -34,20 +34,74 @@
 - 💼 Currently working at **Rahbin**
 - 🧱 I build **full-stack websites, mobile apps and AI-powered products**, from idea to deployment
 - 🤖 Working with **LLMs, AI APIs, chatbots and automation** to make products smarter
-- 🔭 Currently building **Rahmani_Web** and **Ketabnawa**
+- 🚀 Shipped **BiaChat** (messaging), **TOPSII** (ride-hailing), **Hamakala** (B2B marketplace) and **Salamkar** (jobs) to real users on Android & iOS
 - 🌱 Learning **AI agents, system design and scalable cloud architecture**
-- 💬 Ask me about **React, Next.js, Node.js, Python and AI integration**
+- 📱 Building cross-platform mobile apps with **Flutter** and backends on **Supabase** & **Node.js**
+- 💬 Ask me about **React, Next.js, Flutter, Supabase, Python and AI integration**
 - 📫 Open to **freelance work, collaborations and remote roles**
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Featured work
 
-| Project | What it is | Tech |
-|---|---|---|
-| [**Ketabnawa**](https://github.com/paimanmohammdi2024/ketabnawa) | _One line about what it does and who it's for_ | TypeScript, React |
-| [**Rahmani_Web**](https://github.com/paimanmohammdi2024/Rahmani_Web) | _One line about what it does_ · [Live demo](https://example.com) | React, Node.js |
-| [**Class_Project**](https://github.com/paimanmohammdi2024/Class_Project) | Portfolio template for students | HTML, CSS |
+> Production apps with real users. I contributed to these as part of the core engineering team; the code is private, so the links go to the live products.
+
+#### 💬 [BiaChat](https://www.bia-chat.com/fa): messaging & social app, built in Afghanistan
+
+Private chat, voice & video calls, groups, channels, stories and file sharing, with end-to-end encryption on by default. Available in Dari, Pashto and English.
+
+**My role:** designed the **system architecture** and built the **backend** (messaging, calls, groups, media and encryption flows).
+<!-- Stack: add the main tech here, e.g. Node.js · WebSockets · MongoDB · Redis -->
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.heychat.com"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://www.bia-chat.com/fa"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/5K%2B_downloads-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E2%98%85_4.4_rating-f5a623?style=for-the-badge" />
+</p>
+
+#### 🚗 [TOPSII](https://topsiigroup.com/en): ride-hailing platform for Kabul
+
+Riders book trips, agree on the fare up front and pay by cash, mPaisa or card. Drivers earn with their own cars or bikes. The platform includes a rider app, a driver app, the backend and the website.
+
+**My role:** built it **end to end**: the **rider app**, **driver app**, **backend & real-time trip system** and the **website**.
+<!-- Stack: add the main tech here, e.g. React Native · Node.js · PostgreSQL · Google Maps -->
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.topsii.app"><img src="https://img.shields.io/badge/Rider-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/af/app/topsii/id6784919746"><img src="https://img.shields.io/badge/Rider-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.topsiidriver.app"><img src="https://img.shields.io/badge/Driver-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/af/app/topsii-driver/id6784920345"><img src="https://img.shields.io/badge/Driver-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://topsiigroup.com/en"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+#### 🏭 [Hamakala](https://hamakala.com/): B2B wholesale marketplace for Afghanistan
+
+Connects factories, wholesalers and retailers on one platform. Buyers discover verified suppliers, request quotes, chat and place bulk orders, with multi-currency (AFN, USD, EUR) checkout and map-based delivery addresses.
+
+**My role:** built it **end to end**: the **mobile apps**, **backend** and **website**.
+<!-- Stack: add the main tech here -->
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.hamakala.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/af/app/hamakala/id6760579525"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://hamakala.com/"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+#### 💼 [Salamkar](https://salamkar.com/): jobs & recruitment platform for Afghanistan
+
+Job seekers build profiles, apply to jobs and track their applications. Employers create company pages, post vacancies and manage hiring from one dashboard.
+
+**My role:** built it **end to end**: the **mobile apps**, **backend** and **website**.
+<!-- Stack: add the main tech here -->
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.salamkar.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/us/app/salamkar/id6761758377"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://salamkar.com/"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<!-- More projects coming soon -->
 
 ---
 
@@ -55,7 +109,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,fastapi,pytorch,docker,git,github,vscode,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart,nodejs,express,python,fastapi,pytorch,supabase,mongodb,docker,git,github,vscode,figma&perline=7" />
   </a>
 </p>
 
